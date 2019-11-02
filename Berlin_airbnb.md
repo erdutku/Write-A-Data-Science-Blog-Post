@@ -7,7 +7,25 @@ import pandas as pd
 import matplotlib.pyplot as plt
 plt.style.use('seaborn')
 import seaborn as sns
+import geopandas
 ```
+
+
+```python
+countries_gdf = geopandas.read_file("Berlin_map.geojson")
+countries_gdf.plot()
+```
+
+
+
+
+    <matplotlib.axes._subplots.AxesSubplot at 0x9ce6ef0>
+
+
+
+
+![png](output_1_1.png)
+
 
 
 ```python
@@ -1127,7 +1145,7 @@ plot
 
 
 
-![png](output_16_1.png)
+![png](output_17_1.png)
 
 
 
@@ -1158,7 +1176,7 @@ display_bar_chart(listings_df, "price", "What are the most twenty demanded room 
 ```
 
 
-![png](output_18_0.png)
+![png](output_19_0.png)
 
 
 
@@ -1168,7 +1186,7 @@ display_bar_chart(listings_df, "neighbourhood_group", "Where are the most demand
 ```
 
 
-![png](output_19_0.png)
+![png](output_20_0.png)
 
 
 
@@ -1187,7 +1205,7 @@ plt.suptitle('');
 ```
 
 
-![png](output_20_0.png)
+![png](output_21_0.png)
 
 
 
@@ -1198,7 +1216,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](output_22_0.png)
 
 
 
