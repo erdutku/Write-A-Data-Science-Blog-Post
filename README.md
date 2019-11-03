@@ -44,7 +44,7 @@ There is also a notebook available here to showcsae all my work related to my fi
 
 ## Results
 
-The main findings of the code can be found at the [post] (https://github.com/erdutku/Write-A-Data-Science-Blog-Post/blob/master/Berlin_Airbnb.ipynb) available
+The main findings of the code can be found at the [post](https://github.com/erdutku/Write-A-Data-Science-Blog-Post/blob/master/Berlin_Airbnb.ipynb) available
 
 ### Licensing, Authors, and Acknowledgements
 Must give credit to Berlin, Germany Airbnb for the data.You can find the Licensing for the data and other descriptive information at the Airbnb [link](http://insideairbnb.com/get-the-data.html) available here. Otherwise, feel free to use the code here as you would like!
