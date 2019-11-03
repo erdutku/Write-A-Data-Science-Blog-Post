@@ -3,7 +3,7 @@ Write-A-Data-Science-Blog-Post
 
 ## Table of Contents
 
-### [Installation]
+### Installation
 
 ### Project Motivation
 
